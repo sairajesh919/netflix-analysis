@@ -41,7 +41,7 @@ The dataset contains information about movies and TV shows available on Netflix,
 - Pandas (data manipulation)  
 - Matplotlib & Seaborn (visualizations)  
 - WordCloud (text visualization)  
-- Jupyter Notebook (for development and presentation)
+- google colab(for development and presentation)
 
 ---
 
