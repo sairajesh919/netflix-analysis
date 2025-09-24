@@ -49,4 +49,4 @@ The dataset contains information about movies and TV shows available on Netflix,
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/netflix-analysis.git
+   git clone https://github.com/sairajesh919/netflix-analysis.git
